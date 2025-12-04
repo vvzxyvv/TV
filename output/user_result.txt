@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-04 06:13:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-04 18:15:19,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -73,7 +73,6 @@ CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=8e4f91b7950497f8570c
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=680307806d82b89a0fb49996b2ac29f029f4acaa517daa479e0e7b48de1925cbaf5d59d33296ab91d331a8f6d9427efbd62c58c14828357513663ce40c85b2fcfc05583339543a10f4a02d75d0
 CCTV-6,https://www.freetv.top/migu/624878396.m3u8?migutoken=fad6ba45166658ac148a6a597b94823f91673302510000cce2a906c7a6634ee620570956e2746b8b2cf59ae5370dd0f1ff919edf280e875ab76365c094c9960948ebc38ca05218b8effb809ba5
 CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/.m3u8
-CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226906/.m3u8
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=44446ab398991313e6a822efdaec82f3b845a2e8f141c172aa857c477255724bbb28fc01d33f764c51106c446af1c57e8815b58822075b194f4cf55cde28fe55f54330d4586c92e75e8aa50a48
 CCTV-7,http://www.freetv.top/migu/673168121.m3u8?migutoken=bea4d574a7f96c7e95fb2000e191d57743cfdadfa9a4819385a46bf2bf269d9cf13b9bcc1494158b5bc16ce7d6751825800030253b91daf31a298122a2511f45821009cbeca64d12349bc0227d
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=11284a6f3b3b2fa213fe083e46e96de1056fd7727d3d02e2cb4c2eb6c9994c51a6d20f333eba2d4739cee8fe8d82b5a8ed95fbfa87d5df4d792df3f436e23df7ce80f601e526e1e967f1479a14
@@ -82,6 +81,7 @@ CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=a878b713604abd82c57c
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=574d7f499abe28260750cc94be57fac402b5f84b72ecb907cf459ce8d58381c92f1a7208e1b83a752dcb0500c1839caea4e4747510bac25b9090fa959b172ce5389a900b4612dde9e9d594cf2e
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=e78f83938702d1bbe1b942fbec9a4863f5e3233d946d4cb9d5650315c000e4b18fbeeecf6ea2debe700775517292edb56b8b5d596b464d112fbf4dc3fab926b0f9ec01cf52b7a4a97b4be82ad4
 CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=77f3d07c8c715fc3df72eeb3151a68e9169b4e17d5d0be3ff0eccb5d0a34a91fe58a22d4bdfa529c8c752579855b46458434107509993fa5f5abc00210d466c2a969d6bd3f9f0c6f6b0deca814
+CCTV-7,https://www.freetv.top/migu/673168121.m3u8?migutoken=39f299ba0d4c0dd00c89550497da4b7b2de0752f52a9831160904f0fa48d0e4f14936c2d2e794d39ef3d9fec119c22460c845abc4c1f894d73f27e21754ec4a1aec51a4285c036e5a6febf8b71
 CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=170b73b07e0cf0d307afea3545da5b9609d7c15461a2f4ac0f43634101df9baf391a446b91e5f84446b6a3b0934bb4730e2f3c4a32a565f904f22c8ff745a094d45dfd49c54f31b0b78156a080
 CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=a5eae829671ac326f37a16f65535b257f90b8bda77984094ab1ccd94b6ef5e7ff48889c5a21a84f1150dfd3a6e390047ac48c3f964608c11a0dfcdfadb1d36607b4f2f6fccd07ed9bdbd92a98e
 CCTV-8,https://www.freetv.top/migu/624878356.m3u8?migutoken=c5686b91f24bdb26f27f65d03991e67482244e2e4c81db01625a459eacd6085c8ca21c17dd1cd39379194ef1590bf3afe58308bfbdb911a41c0a5f83ee5f9db1749bb13f66d2a8daed0ddd2c42
@@ -152,7 +152,6 @@ CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=eaad08d0bfccf8c4382
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=56c7feb8cb5f347901196e85642fd684252562a371f8eff91130c55f05b146a75525b0ded5bbd67d992fd86e47f3af37a5b87c9830db36e765e2b022af03ae4f28d4016c2f1bc9a60bc14d57b3
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=e6bd15e024af167f2ca00052d9bcd67ea8fb97ef7fc460b66c53fe1a4e5ef960f22ccc6ea16b995648364a330058a0f552e989000e7e98adfafc3a0259bb475e8c905ce600deedcd97464ca17f
 CCTV-14,https://www.freetv.top/migu/624878440.m3u8?migutoken=85e854e85508f09545d95114a17c9609e15d0861306d1ddf01f1bcbe68f219f42ea58ab68946b738d64e5ce4933ecf5e23d08385f008f3c5b8552da1a620dc66ffa5cd7fb95a830ab4db88db85
-CCTV-15,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226910/.m3u8
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=405252f2e3e9d074b85a6b084bcc54894e3604d659e5fa911942b535a440184d991c0321451bca103d1a5bdc6ccf61193bdfbcc62bef28f759dd6e6d50ec34cda80794148cd2eac1ed6b17bc0d
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=d46236e1f679dad891142868b96821ba336ddefe3e4cddd4bd824a7fb0dcbbaba9234379f3c3e8769f05d127936a3a11f0963e0728476ac62f93a56a69dfed36453b0c3516a4ed541829283d46
@@ -162,6 +161,7 @@ CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=da6d2f0a50c0d2ccf58
 CCTV-15,http://www.freetv.top/migu/673168223.m3u8?migutoken=81268e3d4f684bb5f7e3f9be9524d419c9c649ab0f8f8d3416c7e7535e0b219459b129f4be677a98cf66de546e2d7a78ebe50703d98eb67703adee341cd46d7d39c14bfc907da3a20534d07396
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=ad38294ea17b61fb4e3582dd4b38fe6903d520cf9c77df387069a12c1d35acd569d2a80ad10f3f759e3130a7cf82f39f4700e10050fa4438027fb9151be012733eede3d7a5db53a58345272ef8
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=b3f5f563a0e87a8d4215ce2f21de8c4ba355f6b7cecac5f686433bc2809f1a670c2454c39a4c60e3d446e610daf4c9bb26feea0ee07ed55a05d6b332b10381aa4ffb12bb3db425336f25a43987
+CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=f24124cb55ee7b2392bae373bd81ba8f267bc2ab7ff065b93c9b9e9674236b624bab04f3f6a2e4d12149cfe81b19760c763b8fba1369d0d4092281bada4eff6ba6d823c0c43e451911f5b20872
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 CCTV-16,https://migu.188766.xyz/?migutoken=eda82b340e2efaedc007fddfaf1c7c28&id=CCTV16&pp=1
 CCTV-16,http://free.cnlive.club/channel/c15fcc8/index.m3u8?q=1756084903216
@@ -191,9 +191,8 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,https://migu.188766.xyz/?migutoken=ec26188e91410ebeb44f54597d4eb02f&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&pp=1
 湖南卫视,https://cc06.tv12.xyz/57.m3u8
-北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226564/.m3u8
+北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/.m3u8
 北京卫视,https://cc06.tv12.xyz/27.m3u8
 湖北卫视,https://www.freetv.top/migu/738906825.m3u8?migutoken=959fce041a0fecbe0bdf2b300a4d13c986661650b877856aabade568eaf9f549143a65c212325030ca99ac119635c6c4daa7c93ba8863508e6aeef100965a31ae4a8152b02337aea453f42988d
 湖北卫视,https://www.freetv.top/migu/947472496.m3u8?migutoken=9bd305703117b6f1a9c2173244447e842908f2aec928c6d2a88e48e161877e502a2098f1870813f7673be0b35489dee17429bc5f241b1b21992b87b9e55379238e1a0cfe388465efacb4a6f6af
@@ -220,8 +219,8 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c
 东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=70f8eed447e228f3a56a4c95bfd1ef7936ab4f75e51e3265478e1262b62f33a7d7a4be2d80fd3585f29cd990ea0ee9d67f76f299229509e007f26ccd58641bc444d7baeccead6d0915dae8e089
 东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=95759756a54e94e55327bb13b854f38b8804506300bc7b2dc6d7896518d1cb705d68a47d6e445836946d997e2a858592d4082bf57643ec7ac74aa8bdd99fb70b8ab534cb9b55a950291eb07c63
 东方卫视,https://www.freetv.top/migu/651632648.m3u8?migutoken=6c3ad966ab21a09d75cd7c650e98f47332acc033ff8b9ec4fd233dd140f355862447ef3a9137c0feed4b463f51efc8dd4d06420ea479ee57eec3b86d362afb0868f196cec548111db9f13e71ff
-东南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+东南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=820d1dfe311ed9d88634dc040a64adbd8f30c96a6aec221a9807061025c02cc5be8e21cca6eb021eb76ad7333303e5dbe8e3ef24ad4aa58a274dc33ec25a3b373ddb6aee551e16ba35b3a9143a
 东南卫视,https://www.freetv.top/migu/849116810.m3u8?migutoken=57b23005d895a6cd3e15ca214fe62e9cf83a69badc0ce3b833b22fe7eefbfc38e185d5f9539eca0a9cfebc7fd19dbe2b49cc2146019b049ffb948722d504a126278700ecc8a776cc6e8d23507a
@@ -241,7 +240,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山东卫视,https://cc06.tv12.xyz/101.m3u8
-四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226924/.m3u8
 四川卫视,https://cc06.tv12.xyz/99.m3u8
 深圳卫视,https://cc06.tv12.xyz/108.m3u8
 天津卫视,http://live.wqwqwq.sbs/itv/5000000004000006827.m3u8?cdn=bestzb
@@ -252,9 +250,9 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c
 🏠广东频道,#genre#
 广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 广东珠江,http://r.jdshipin.com/sE5vO
-广东体育,http://111.221.137.155:44330/tsfile/live/1000_1.m3u8?key=txiptv
-广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://120.238.94.10:9901/tsfile/live/1012_1.m3u8
+广东体育,http://111.221.137.155:44330/tsfile/live/1000_1.m3u8?key=txiptv
+广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育,http://120.198.101.106:9901/tsfile/live/1012_1.m3u8?key=txiptv
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8
@@ -274,6 +272,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
 明珠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 明珠台,http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
@@ -292,11 +291,10 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 香港卫视,https://yvxymm.tv12.xyz/175.m3u8
 香港卫视,https://migu.188766.xyz/?migutoken=71c1dbe4568d6c43573e0f04671d588f&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&pp=1
 香港卫视,https://migu.188766.xyz/?migutoken=6804cde09f4133e69f2aaf5406a2bcc5&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&type=yy
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
@@ -314,7 +312,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
-东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 
