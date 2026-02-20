@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-20 18:28:59,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-21 06:16:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -244,18 +244,17 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=9094be8a5828bcdca0c
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 深圳卫视,https://cc06.tv12.xyz/108.m3u8
 天津卫视,http://live.wqwqwq.sbs/itv/5000000004000006827.m3u8?cdn=bestzb
-西藏卫视,http://118.72.48.240:888/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,https://cc06.tv12.xyz/112.m3u8
-新疆卫视,http://118.72.48.240:888/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,https://cc06.tv12.xyz/109.m3u8
 
 🏠广东频道,#genre#
 广东珠江,http://lu.wqwqwq.sbs/itv/2000000003000000033.m3u8?cdn=hnbblive
 广东珠江,http://r.jdshipin.com/sE5vO
-广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
-广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8
+广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
 广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东体育,http://183.11.239.36:808/hls/2/index.m3u8
