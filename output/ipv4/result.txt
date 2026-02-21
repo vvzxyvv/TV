@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-21 06:16:12,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-21 18:17:14,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
@@ -21,12 +21,6 @@ CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
 
 🏠广东频道,#genre#
 广东体育,http://27.41.245.32:801/hls/204/index.m3u8
-广东体育,http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育,http://183.237.95.108:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育,http://218.15.183.23:9901/tsfile/live/23012_1.m3u8
-广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
-广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-广东体育,http://183.11.239.36:808/hls/2/index.m3u8
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 广州影视,http://nn.7x9d.cn/地方台8563/gsw.php?id=gzys
 
