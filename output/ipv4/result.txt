@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-19 18:32:02,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-20 06:18:35,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
@@ -31,8 +31,6 @@ CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
 
 🎬电影频道,#genre#
-黑莓电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0850&tk=b53028476470
-黑莓电影,http://111.43.126.240:9003/hls/99/index.m3u8
 龙祥电影,http://free.cnlive.club/channel/67548a4f.m3u8
 
 🏀体育频道,#genre#
