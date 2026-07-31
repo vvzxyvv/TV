@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260730225731 +0800">
+<tv date="20260731115308 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -14868,11 +14868,11 @@
 	<programme channel="三沙卫视" start="20260731000000 +0800" stop="20260731004000 +0800">
 		<title lang="zh">风尚潮</title>
 	</programme>
-	<programme channel="三沙卫视" start="20260731012000 +0800" stop="20260731020000 +0800">
-		<title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+	<programme channel="三沙卫视" start="20260731004000 +0800" stop="20260731012000 +0800">
+		<title lang="zh">动画片</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260731012000 +0800" stop="20260731020000 +0800">
-		<title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+		<title lang="zh">走向蔚蓝——海洋纪录片展播</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260731020000 +0800" stop="20260731025000 +0800">
 		<title lang="zh">精编节目</title>
@@ -14895,14 +14895,8 @@
 	<programme channel="三沙卫视" start="20260731054000 +0800" stop="20260731062000 +0800">
 		<title lang="zh">风尚潮</title>
 	</programme>
-	<programme channel="三沙卫视" start="20260731062000 +0800" stop="20260731070000 +0800">
-		<title lang="zh">走向蔚蓝-海洋纪录片展播</title>
-	</programme>
-	<programme channel="三沙卫视" start="20260731070000 +0800" stop="20260731070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="三沙卫视" start="20260731070100 +0800" stop="20260731072000 +0800">
-		<title lang="zh">专题</title>
+	<programme channel="三沙卫视" start="20260731062000 +0800" stop="20260731072000 +0800">
+		<title lang="zh">走向蔚蓝——海洋纪录片展播</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260731072000 +0800" stop="20260731080000 +0800">
 		<title lang="zh">三沙新闻</title>
@@ -14918,6 +14912,9 @@
 	</programme>
 	<programme channel="三沙卫视" start="20260731084500 +0800" stop="20260731090000 +0800">
 		<title lang="zh">海洋音乐厅</title>
+	</programme>
+	<programme channel="三沙卫视" start="20260731090000 +0800" stop="20260731104000 +0800">
+		<title lang="zh">电影时间</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260731104000 +0800" stop="20260731111000 +0800">
 		<title lang="zh">自宣段</title>
@@ -14944,7 +14941,7 @@
 		<title lang="zh">诗意海洋</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260731133000 +0800" stop="20260731140000 +0800">
-		<title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+		<title lang="zh">走向蔚蓝——海洋纪录片展播</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260731140000 +0800" stop="20260731143000 +0800">
 		<title lang="zh">风尚潮</title>
@@ -14952,11 +14949,17 @@
 	<programme channel="三沙卫视" start="20260731143000 +0800" stop="20260731150000 +0800">
 		<title lang="zh">自贸先行者</title>
 	</programme>
+	<programme channel="三沙卫视" start="20260731150000 +0800" stop="20260731164000 +0800">
+		<title lang="zh">电影时间</title>
+	</programme>
 	<programme channel="三沙卫视" start="20260731164000 +0800" stop="20260731170000 +0800">
 		<title lang="zh">自宣段</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260731170000 +0800" stop="20260731173000 +0800">
 		<title lang="zh">英语新闻</title>
+	</programme>
+	<programme channel="三沙卫视" start="20260731173000 +0800" stop="20260731175700 +0800">
+		<title lang="zh">动画片</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260731175700 +0800" stop="20260731180000 +0800">
 		<title lang="zh">三沙海洋预报</title>
@@ -14985,6 +14988,9 @@
 	<programme channel="三沙卫视" start="20260731200000 +0800" stop="20260731203000 +0800">
 		<title lang="zh">海南新闻联播</title>
 	</programme>
+	<programme channel="三沙卫视" start="20260731203000 +0800" stop="20260731222700 +0800">
+		<title lang="zh">电影时间</title>
+	</programme>
 	<programme channel="三沙卫视" start="20260731222700 +0800" stop="20260731223000 +0800">
 		<title lang="zh">自宣段</title>
 	</programme>
@@ -14994,14 +15000,14 @@
 	<programme channel="三沙卫视" start="20260731225500 +0800" stop="20260731232000 +0800">
 		<title lang="zh">英语新闻</title>
 	</programme>
-	<programme channel="三沙卫视" start="20260731232000 +0800" stop="20260801000000 +0800">
+	<programme channel="三沙卫视" start="20260731232000 +0800" stop="20260731235900 +0800">
 		<title lang="zh">精编节目</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260801000000 +0800" stop="20260801004000 +0800">
 		<title lang="zh">风尚潮</title>
 	</programme>
-	<programme channel="三沙卫视" start="20260801012000 +0800" stop="20260801020000 +0800">
-		<title lang="zh">走向蔚蓝-海洋纪录片展播</title>
+	<programme channel="三沙卫视" start="20260801004000 +0800" stop="20260801012000 +0800">
+		<title lang="zh">动画片</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260801012000 +0800" stop="20260801020000 +0800">
 		<title lang="zh">走向蔚蓝-海洋纪录片展播</title>
@@ -15051,6 +15057,9 @@
 	<programme channel="三沙卫视" start="20260801084500 +0800" stop="20260801090000 +0800">
 		<title lang="zh">海洋音乐厅</title>
 	</programme>
+	<programme channel="三沙卫视" start="20260801090000 +0800" stop="20260801105700 +0800">
+		<title lang="zh">电影时间</title>
+	</programme>
 	<programme channel="三沙卫视" start="20260801105700 +0800" stop="20260801111000 +0800">
 		<title lang="zh">自宣段</title>
 	</programme>
@@ -15084,11 +15093,17 @@
 	<programme channel="三沙卫视" start="20260801143000 +0800" stop="20260801150000 +0800">
 		<title lang="zh">精编节目</title>
 	</programme>
+	<programme channel="三沙卫视" start="20260801150000 +0800" stop="20260801165700 +0800">
+		<title lang="zh">电影时间</title>
+	</programme>
 	<programme channel="三沙卫视" start="20260801165700 +0800" stop="20260801170000 +0800">
 		<title lang="zh">自宣段</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260801170000 +0800" stop="20260801173000 +0800">
 		<title lang="zh">英语新闻</title>
+	</programme>
+	<programme channel="三沙卫视" start="20260801173000 +0800" stop="20260801175700 +0800">
+		<title lang="zh">动画片</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260801175700 +0800" stop="20260801180000 +0800">
 		<title lang="zh">三沙海洋预报</title>
@@ -15116,6 +15131,9 @@
 	</programme>
 	<programme channel="三沙卫视" start="20260801200000 +0800" stop="20260801203000 +0800">
 		<title lang="zh">海南新闻联播</title>
+	</programme>
+	<programme channel="三沙卫视" start="20260801203000 +0800" stop="20260801220500 +0800">
+		<title lang="zh">电影时间</title>
 	</programme>
 	<programme channel="三沙卫视" start="20260801220500 +0800" stop="20260801223000 +0800">
 		<title lang="zh">自宣段</title>
