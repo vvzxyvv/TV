@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-09 07:46:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-09 22:02:23,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -235,8 +235,8 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=dff047a9026f526223c
 江苏卫视,https://cc06.tv12.xyz/61.m3u8
 山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 山东卫视,https://cc06.tv12.xyz/101.m3u8
-四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,https://cc06.tv12.xyz/99.m3u8
 深圳卫视,https://cc06.tv12.xyz/108.m3u8
 天津卫视,http://live.wqwqwq.sbs/itv/5000000004000006827.m3u8?cdn=bestzb
